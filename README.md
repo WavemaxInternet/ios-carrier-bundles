@@ -1,23 +1,23 @@
 
 # iOS 27.0 Carrier Bundles
 
-This repo contains the Carrier Bundles currently bundled with iOS version 27.0 for the iPhone Air.
+This repo contains the Carrier Bundles currently bundled with iOS version 27.0 for the iPhone 18 Pro.
 ## Last Extraction Metadata
 
 #### Last Extraction Time
-`2026-09-14 18:09:58 UTC`
+`2026-09-14 18:54:00 UTC`
 
 #### iOS Build Info
 
 | iOS Version | iOS Build | iOS Build Timestamp |
 | :-------- | :------- | :------------------ |
-| 27.0 | 24A437 | 04 Sep 2026 05:13:29 UTC |
+| 27.0 | 24A437 | 04 Sep 2026 05:24:00 UTC |
 
 #### iOS Device Info
 
 | Device Name | Device Identifier |
 | :-------- | :------- |
-| iPhone Air | iPhone18,4 |
+| iPhone 18 Pro | iPhone19,2 |
 
 ## Folder Explanations
 
